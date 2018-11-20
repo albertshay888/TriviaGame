@@ -1,7 +1,11 @@
 # Trivia Game
+<<<<<<< HEAD
 
 Demo: https://albertshay888.github.io/TriviaGame/
 
+=======
+Demo: https://albertshay888.github.io/TriviaGame/
+>>>>>>> 038004cb005959fc6e336ef2966c4f0d6f3cefcb
 ### Overview
 This is a Trivia game using JavaScript for the logic and jQuery to manipulate HTML.
 
@@ -15,4 +19,8 @@ This is a Trivia game using JavaScript for the logic and jQuery to manipulate HT
 
 * On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
 
+<<<<<<< HEAD
 -------
+=======
+-------
+>>>>>>> 038004cb005959fc6e336ef2966c4f0d6f3cefcb
